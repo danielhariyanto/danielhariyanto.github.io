@@ -11,17 +11,19 @@
  }
  
  body,
- h1,
+ h1 {
+    font-family: 'Julius Sans One', sans-serif;
+    font-size: large;
+ }
  h2,
  h3,
  h4,
  h5,
  h6 {
-     font-family: 'Montserrat', sans-serif;
-     font-weight: 700;
+     font-family: 'Quicksand', sans-serif;
  }
  
- .alt-font {font-family: 'Quicksand', sans-serif !important;}
+ .alt-font {font-family: 'Big Shoulders Inline Text', sans-serif !important;}
  
  .lead {
      font-size: 18px;
