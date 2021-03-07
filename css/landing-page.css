@@ -74,12 +74,11 @@
  }
  
  @media(max-width:767px) {
-     .intro-message {
-         padding-bottom: 15%;
-     }
- 
      .intro-message > h1 {
-         font-size: 3em;
+         font-size: 12vw;
+     }
+     .intro-message > h3 {
+         font-size: 4vw;
      }
      
      ul.intro-social-buttons > li {
